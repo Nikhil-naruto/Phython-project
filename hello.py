@@ -20,3 +20,5 @@ print(format('Hello', '>30'))
 
 luck=4
 print("lucky number = "+str(luck))
+
+print(2.987/5.09875)
