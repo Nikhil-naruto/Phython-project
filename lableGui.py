@@ -1,0 +1,1 @@
+#label is an area widget which hold text , image with in a widow
