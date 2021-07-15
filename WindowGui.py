@@ -2,6 +2,7 @@ from tkinter import *
 window = Tk()
 #widgets = GUI elements : buttons , lables, images
 #window = serves as a container to hold or contain these widgets
+window.geometry("420*420")
 window.title("Hello world")
 window.config(background="black")
 icon = PhotoImage(file='naruto.jpg')
